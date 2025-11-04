@@ -1,0 +1,3 @@
+[submodule "wordlists/fuzzdb"]
+	path = wordlists/fuzzdb
+	url = https://github.com/fuzzdb-project/fuzzdb.git
